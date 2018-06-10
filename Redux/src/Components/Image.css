@@ -1,0 +1,26 @@
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 225px;
+    background-color: whitesmoke;
+    border: 1px solid darkblue;
+    padding: 5px;
+    margin: 5px auto;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    text-align: center
+}
+
+.imageElem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+
+.title {
+  text-align: left;
+  font-size: x-large;
+  color: crimson;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 30px;
+}
+
+.content{
+  width: 250px auto;
+  margin: 10px;
+  padding: 5px;
+  background-color: lightgrey;
+}
